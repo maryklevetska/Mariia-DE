@@ -1,6 +1,6 @@
 # Mariia DE
 
-Hi, I'm Mariia — a product designer.
+Hi, I'm Mariia — a UI/UX designer.
 
 My path started ten years ago in IT and has taken me through different roles, working across web and mobile interfaces, landing pages, and web products, from team designer to lead. I've worked on graphic and print design (from packaging to advertising) and on startups building mobile apps for iOS and Android, designing user-focused digital experiences end-to-end, from user flows, wireframes, and prototypes to design systems and dev-ready handoff, all built on a strong visual and brand design foundation. In my current role, I design referral campaigns for major brands across desktop and mobile and contribute to a referral marketing platform, working through wireframing, design systems, and A/B testing.
 
