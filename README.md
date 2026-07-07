@@ -7,3 +7,9 @@ My path started ten years ago in IT and has taken me through different roles, wo
 I'm curious about new products, focused on conversion and clean UX, and actively integrate AI tools into my workflow. Since the start of the full-scale invasion, I've also supported volunteer efforts as a designer, where creating meaningful, impactful work and contributing to social projects matters deeply to me.
 
 Now I'm starting my Design Engineering journey — this repository will hold my coursework and experiments from the Design Engineering course.
+
+## Tools I work with
+
+- **Design:** Figma, Sketch, Adobe CC
+- **Prototyping:** Figma prototypes, HTML/CSS/JS
+- **Workflow:** design systems, A/B testing, AI tools (Claude Code)
