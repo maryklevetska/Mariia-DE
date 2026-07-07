@@ -1,15 +1,7 @@
 # Mariia DE
 
-Hi, I'm Mariia — a UI/UX designer.
+Hi, I'm Mariia — a UI/UX designer with 10 years in IT: web and mobile interfaces, design systems, and conversion-focused UX. Currently I design referral campaigns for major brands and I'm starting my Design Engineering journey.
 
-My path started ten years ago in IT and has taken me through different roles, working across web and mobile interfaces, landing pages, and web products, from team designer to lead. I've worked on graphic and print design (from packaging to advertising) and on startups building mobile apps for iOS and Android, designing user-focused digital experiences end-to-end, from user flows, wireframes, and prototypes to design systems and dev-ready handoff, all built on a strong visual and brand design foundation. In my current role, I design referral campaigns for major brands across desktop and mobile and contribute to a referral marketing platform, working through wireframing, design systems, and A/B testing.
+This repository holds my coursework and experiments from the Design Engineering course.
 
-I'm curious about new products, focused on conversion and clean UX, and actively integrate AI tools into my workflow. Since the start of the full-scale invasion, I've also supported volunteer efforts as a designer, where creating meaningful, impactful work and contributing to social projects matters deeply to me.
-
-Now I'm starting my Design Engineering journey — this repository will hold my coursework and experiments from the Design Engineering course.
-
-## Tools I work with
-
-- **Design:** Figma, Sketch, Adobe CC
-- **Prototyping:** Figma prototypes, HTML/CSS/JS
-- **Workflow:** design systems, A/B testing, AI tools (Claude Code)
+More about me: [about-me.md](about-me.md)
